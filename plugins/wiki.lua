@@ -1,4 +1,4 @@
--- http://git.io/vUA4M
+-- http://git.io/vUA
 local socket = require "socket"
 local JSON = require "cjson"
 
